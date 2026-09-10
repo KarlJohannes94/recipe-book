@@ -1,0 +1,8 @@
+# Suupisted
+
+## Koostisosad
+
+- Kanatiivad
+- Dipikaste
+  
+
