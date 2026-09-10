@@ -1,5 +1,8 @@
 # Pumpkin pie recipe
 
+## Osta asju
+- osta kõrvits
+
 
 ## Preparation
 
